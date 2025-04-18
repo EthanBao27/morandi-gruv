@@ -4,6 +4,10 @@
   "icon": "./images/icon.png",
   "description": "Morandi Gruv is a dark theme for Visual Studio Code inspired by the Gruvbox Material Theme,and Morandi color palette.",
   "publisher": "BaoYuXiang",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ethanbao27/morandi-gruv.git"
+  },
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.99.0"

@@ -1,7 +1,7 @@
 # Change Log
 
-## [1.0.0] - 2025-04-18
+## [v1.0.0] - 2025-04-18
 
-### Features
+### Added
 
-- Add Initial release for Mordandi Gruv Theme
+- Initial release for Mordandi Gruv Theme
