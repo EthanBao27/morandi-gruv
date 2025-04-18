@@ -1,11 +1,24 @@
-# Morandi Gruv
+<h1 align="center">
+  <br>
+  <img src="./images/icon.png" alt="Theme Icon" width="256" style="filter: drop-shadow(0 4px 8px #504945);">
+  <br>
+  Morandi Gruv
+  <br>
+</h1>
 
-[![GitHub release](https://img.shields.io/github/v/release/ethanbao27/morandigruv?style=flat-square)](https://github.com/ethanbao27/morandi-gruv/releases)
-[![Downloads](https://img.shields.io/visual-studio-marketplace/d/BaoYuXiang.morandigruv?color=03A9F4)](https://marketplace.visualstudio.com/items?itemName=BaoYuXiang.morandigruv)
+<h4 align="center">low saturation,senere,natural and smooth colors</h4>
 
-<div align="center">
-  <img src="./images/icon.png" alt="Theme Icon" width="256">
-</div>
+<p align="center">
+  <a href="https://github.com/ethanbao27/morandi-gruv/releases">
+    <img src="https://img.shields.io/github/v/release/ethanbao27/morandi-gruv?style=flat&color=%23a9b665&label=VERSION&logo=github" alt="Version">
+  </a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=BaoYuXiang.morandigruv">
+    <img src="https://img.shields.io/visual-studio-marketplace/i/BaoYuXiang.morandigruv?style=flat&color=%23d8a657&label=INSTALLS&logo=visualstudiocode" alt="Installs">
+  </a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=BaoYuXiang.morandigruv">
+    <img src="https://img.shields.io/visual-studio-marketplace/d/BaoYuXiang.morandigruv?style=flat&color=%237daea3&label=DOWNLOADS&logo=azurepipelines" alt="Downloads">
+  </a>
+</p>
 
 ## Screenshots
 
@@ -15,7 +28,7 @@
 
 ## About
 
-Morandi Gruv is a theme aimed to create **tranquilitty,elegance vibes through a grayish tone** by combing the famous **Morandi Color Plalette** with another VsCode theme called **GruvBox Material Theme**.
+Morandi Gruv is a theme aimed to create **tranquility,elegant vibes through a grayish tone** by combing the famous **Morandi Color Plalette** with another VsCode theme called **GruvBox Material Theme**.
 
 Giorgio Morandi(1890-1964) is a French Impressionist art painter.His paintings are characterized by vibrant and luminous colors.
 
