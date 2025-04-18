@@ -8,14 +8,21 @@
     "type": "git",
     "url": "https://github.com/ethanbao27/morandi-gruv.git"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.99.0"
   },
   "categories": [
     "Themes"
   ],
-  "keywords": ["gruvbox material", "morandi", "gruvbox", "material", "dark", "theme"],
+  "keywords": [
+    "gruvbox material",
+    "morandi",
+    "gruvbox",
+    "material",
+    "dark",
+    "theme"
+  ],
   "contributes": {
     "themes": [
       {
