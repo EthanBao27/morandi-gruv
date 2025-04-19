@@ -17,7 +17,7 @@
   </a>
 </p>
 
-## Plalette
+## Palette
 
 <br>
 <div align="center">
