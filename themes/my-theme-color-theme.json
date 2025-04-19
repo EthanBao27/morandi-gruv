@@ -1715,6 +1715,12 @@
       }
     },
     {
+      "scope": "string.quoted.other.lt-gt.include.cpp",
+      "settings": {
+        "foreground": "#D5977E"
+      }
+    },
+    {
       "scope": "punctuation.separator.dot-access.cpp, constant.character.escape.line-continuation.cpp",
       "settings": {
         "foreground": "#928374"

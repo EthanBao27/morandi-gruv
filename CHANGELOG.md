@@ -20,21 +20,31 @@
 
 ## [v1.1.2 ] - 2025-04-19
 
-## Added
+### Added
 
 - Enhanced Python syntax highlighting
 - Redesign of some of the colors(parameter,comments,etc.)
 
-## Fixed
+### Fixed
 
 - Remove the zombie green in the chat frontend and subtitute it with a more fitting color #E7E7E7
 
-## Changed
+### Changed
 
 - Update README.md,adding plalette.png and revise morandi's nationality
 
 ## [v1.1.3] - 2025-04-19
 
-## Changed
+### Changed
 
 - Update README.md
+
+## [v1.1.4] - 2025-04-19
+
+### Fixed
+
+- Misspell word in README.md
+
+### Changed
+
+- C++ language syntax modifyed
