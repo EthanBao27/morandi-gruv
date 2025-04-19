@@ -32,3 +32,9 @@
 ## Changed
 
 - Update README.md,adding plalette.png and revise morandi's nationality
+
+## [v1.1.3] - 2025-04-19
+
+## Changed
+
+- Update README.md

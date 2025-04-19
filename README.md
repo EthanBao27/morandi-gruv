@@ -19,6 +19,7 @@
 
 ## Plalette
 
+<br>
 <div align="center">
   <img src="./images/plalette.png" alt="Color Palette" width="256" style="border-radius: 16px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
