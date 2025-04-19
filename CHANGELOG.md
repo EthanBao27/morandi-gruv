@@ -17,3 +17,18 @@
 ### Features
 
 - Beautify README.md
+
+## [v1.1.2 ] - 2025-04-19
+
+## Added
+
+- Enhanced Python syntax highlighting
+- Redesign of some of the colors(parameter,comments,etc.)
+
+## Fixed
+
+- Remove the zombie green in the chat frontend and subtitute it with a more fitting color #E7E7E7
+
+## Changed
+
+- Update README.md,adding plalette.png and revise morandi's nationality
