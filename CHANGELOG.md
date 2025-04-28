@@ -1,24 +1,28 @@
 # Change Log
 
-## [v1.0.0] - 2025-04-18
+## [v1.1.5] - 2025-04-28
 
-### Features
+### Changed
 
-- Initial release for Mordandi Gruv Theme
+- Update package.json
 
-## [v1.0.1] - 2025-04-19
+## [v1.1.4] - 2025-04-19
 
-### Features
+### Fixed
 
-- Add theme logo and preview image
+- Misspell word in README.md
 
-## [v1.0.2] - 2025-04-19
+### Changed
 
-### Features
+- C++ language syntax modifyed
 
-- Beautify README.md
+## [v1.1.3] - 2025-04-19
 
-## [v1.1.2 ] - 2025-04-19
+### Changed
+
+- Update README.md
+
+## [v1.1.2] - 2025-04-19
 
 ### Added
 
@@ -33,18 +37,20 @@
 
 - Update README.md,adding plalette.png and revise morandi's nationality
 
-## [v1.1.3] - 2025-04-19
+## [v1.0.2] - 2025-04-19
 
-### Changed
+### Features
 
-- Update README.md
+- Beautify README.md
 
-## [v1.1.4] - 2025-04-19
+## [v1.0.1] - 2025-04-19
 
-### Fixed
+### Features
 
-- Misspell word in README.md
+- Add theme logo and preview image
 
-### Changed
+## [v1.0.0] - 2025-04-18
 
-- C++ language syntax modifyed
+### Features
+
+- Initial release for Mordandi Gruv Theme
